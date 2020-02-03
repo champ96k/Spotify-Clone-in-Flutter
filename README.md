@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 HomeScreen
 
-![Tushar Nikam](https://s5.gifyu.com/images/spotify-to-gif.gif)
+![Tushar Nikam](https://gifyu.com/image/qt2B)
