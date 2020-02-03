@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 HomeScreen
 
-![Tushar Nikam](https://gfycat.com/quainthandmadecassowary)
+![Tushar Nikam](spotify.gif)
