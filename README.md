@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 HomeScreen
 
-![Tushar Nikam](spotify.gif)
+![Tushar Nikam]([<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://thumbs.gfycat.com/AbandonedCheerfulBluewhale-mobile.mp4))
