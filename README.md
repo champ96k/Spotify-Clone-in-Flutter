@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 HomeScreen
 
-![Alt Text](https://video.wixstatic.com/video/2ae004_48fa8633d5d0466b9df1bae304a1f931/720p/mp4/file.mp4)
+![Alt Text](https://gifyu.com/image/qt2Z)
